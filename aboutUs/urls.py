@@ -18,6 +18,6 @@ from django.contrib import admin
 from . import views
 
 urlpatterns = [
-    url(r'^$', views.startPage , name = "start")
+    url(r'^$', views.aboutUs , name = "start")
 
 ]
