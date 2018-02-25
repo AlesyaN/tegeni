@@ -1,0 +1,36 @@
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tege-ni.ru" resolutions="1x" timestamp="1519585853128">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_______-a.css" crc="113801383" ref="index"/>
+    <file name="index.css" crc="4259188904" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="ralewayextrabold1.woff" crc="4256467832"/>
+    <file name="ralewayextrabold1.eot" crc="339245336"/>
+    <file name="ralewaylight1.woff" crc="427651856"/>
+    <file name="ralewaylight1.eot" crc="97072832"/>
+    <file name="ralewaymedium1.woff" crc="243606606"/>
+    <file name="ralewaymedium1.eot" crc="315892681"/>
+    <file name="ralewayregular1.woff" crc="444132236"/>
+    <file name="ralewayregular1.eot" crc="298707226"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4216313831" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4177022356" ref="index"/>
+    <file name="jquery.musemenu.js" crc="493622299" ref="index"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="require.js" crc="3951022091" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="podlogka.png" crc="4202310508" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mainadelya.png" crc="310357185" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="484845835" seo="true" mt="1519504330848" redirect="true"/>
+</manifest>
